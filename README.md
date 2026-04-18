@@ -1,14 +1,26 @@
-Repository containing all the projects and activities completed during the Santander Discovery Piscine, in partnership with 42 Porto, a programming school.
-Eis o preview de algums dos projetos executados na Discovery Piscine.
+# 42 Discovery Piscine
 
-## Cell02
+This repository contains the projects and activities completed during the Santander Discovery Piscine, in partnership with 42 Porto.
+
+## Project Previews
+
+### Cell 02
+
+#### Parallax
 ![Preview](./cell02/ex02/preview.png)
+
+#### Card
 ![Preview](./cell02/ex03/preview.png)
 
-## Cell03
+### Cell 03
+
+#### Basic Calculator
 ![Preview](./cell03/ex02/preview.png)
-![Preview](./cell03/ex03/preview.png)
+
+#### To-do List
 ![Preview](./cell03/ex04/ex03bis/preview.png)
 
-## Rush
+### Rush
+
+#### Profile Website
 ![Preview](./rush/preview.png)

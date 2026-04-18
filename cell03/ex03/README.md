@@ -50,3 +50,5 @@ Salvar e carregar a lista usando cookies:
 Ao mudar a lista, atualizar o cookie.
 
 Ao carregar a página, ler o cookie e recriar as tarefas dentro de ft_list.
+
+![Preview](./preview.png)
